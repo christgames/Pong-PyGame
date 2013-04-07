@@ -8,7 +8,14 @@
 **Format:** ZIP (Setup.exe installer)  
 **License:** GNU General Public License  
 ***
+### Instructions: Compiling and Running the Game
+**pong.py** was created by the IDLE (Python GUI) editor.  
+**pong.iss** was created for the Inno Setup Windows installer.  
+This game does not require any special compilation steps. Python applications can run naively as long as the interpreter is installed on the same computer. To run this game, just install Python and run the pong.py directly as if it were an executable.  
+
+To build the setup.exe installer, we used the Inno Setup Windows installer tool. The pong.iss configuration file contains all of the information to do that.  
 ### External Links
 **Windows Installer:** [Pong-PyGame.zip](http://www.christgames.org/ftp/games/arcade/pong/pygame/pong-pygame.zip)  
-**Python Binaries:** [python-3.2.3.msi] (http://www.python.org/getit/releases/3.2.3/)  
-**PyGame Binaries:** [pygame-1.9.2a0.win32-py3.2.msi] (http://www.pygame.org/download.shtml)  
+**Python Binaries:** [Download python-3.2.3.msi here] (http://www.python.org/getit/releases/3.2.3/)  
+**PyGame Binaries:** [Download pygame-1.9.2a0.win32-py3.2.msi here] (http://www.pygame.org/download.shtml)  
+**Inno Setup Binaries:** [Download ispack-5.5.2.exe here](http://www.jrsoftware.org/isdl.php)  
