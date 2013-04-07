@@ -12,7 +12,7 @@
   
 **Compiling and Running the Game**  
 
-This game does not require any special compilation steps. Python applications can run naively as long as the interpreter is installed on the same computer. To run this game, just install Python and run the pong.py directly as if it were an executable.  
+This game does not require any special compilation steps. Python applications can run naively as long as the interpreter is installed on the same computer. To run this game, just install Python and the PyGame modules and run pong.py directly as if it were an executable.  
 
 **Creating the Game Installer**  
 
